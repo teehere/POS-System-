@@ -52,7 +52,7 @@ This project is aim to develop a **point-of-sales (POS) system** for a retail sh
 
 ## Credits
 This Project is developed by:
-- Tee Le Xuan - Membership maintenance
+- Tee Le Xuan - Membership maintenance and report
 - Wong Zern Ye - Main menu
 - Lim Lei Shuen - Sales
 - Chan Jia Ying - Stock management
