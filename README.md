@@ -64,3 +64,4 @@ This Project is developed by:
 - Chio Xi Wen - Item maintenance
 
 ## Lisence
+This project is protected by MIT [Lisence](Lisence)
