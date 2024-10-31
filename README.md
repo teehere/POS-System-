@@ -30,7 +30,7 @@ This project is aim to develop a **point-of-sales (POS) system** for a retail sh
       
 ## Screenshots
 ### Main Menu
-[![image](https://github.com/user-attachments/assets/ce99f139-cf7a-41e5-89bc-e99486a62159)
+[![image]](https://github.com/user-attachments/assets/ce99f139-cf7a-41e5-89bc-e99486a62159)
 
 ### Item Maintenance 
 [![image]](https://github.com/user-attachments/assets/ed83d7aa-e5b2-45c1-a957-6fa6e04adcf6)
